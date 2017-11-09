@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "locationName": "Izmir",
+      "humidity": "62%",
+      "temperature": "20 C"
+    },
+    {
+      "locationName": "Chicago",
+      "humidity": "62%",
+      "temperature": "5 C"
+    },
+    {
+      "locationName": "Amsterdam",
+      "humidity": "81%",
+      "temperature": "11 C"
+    },
+    {
+      "locationName": "London",
+      "humidity": "78%",
+      "temperature": "12 C"
+    },
+    {
+      "locationName": "Istanbul",
+      "humidity": "80%",
+      "temperature": "16 C"
+    }
+  ]
+}
